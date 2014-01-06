@@ -6,6 +6,7 @@ The idea was to come up with something that could "just work" - you can add to y
 
 ### NOTE: This is very much "work in progress" and I'm tweaking as I use this in current projects
 
+![TabFonts](https://raw.github.com/jasonkneen/images/master/tabfonts/tabfonts.png)
 
 ## Quick Start
 * [Download the latest version](https://github.com/jasonkneen/com.jasonkneen.tabfonts) of the widget as a ZIP file.
