@@ -33,6 +33,7 @@ exports.init = function(args) {
 			selectedColor : args.selectedColor || "#fff",
 			touchEnabled : false,
 			title : tab.title,
+			style: Titanium.UI.iPhone.SystemButtonStyle.PLAIN,
 			font : {
 				fontSize : args.fontSize || 10,
 				fontFamily : args.font || "AvenirNextCondensed-DemiBold"
